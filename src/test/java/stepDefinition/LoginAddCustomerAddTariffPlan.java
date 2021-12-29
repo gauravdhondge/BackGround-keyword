@@ -28,7 +28,8 @@ public class LoginAddCustomerAddTariffPlan {
 	 driver = new ChromeDriver();
 	 driver.manage().window().maximize();
 	 driver.get("http://demo.guru99.com/V1/index.php");
-		  
+	// it is a dummy comment	
+	 
 	 }
 		
 	 
